@@ -24,8 +24,15 @@ Prerequisites:
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
+
+![image](https://github.com/Chas101/osticket-ex-prereqs/assets/153942150/db8319a2-618e-40b6-8aea-7135fe6efe52)
+
+
+![image](https://github.com/Chas101/osticket-ex-prereqs/assets/153942150/d16191cf-a5af-41af-88de-771d63f4f0b7)
+
+
 <p>
 Step 1: Azure VM Setup
 Create a Resource Group.
@@ -34,9 +41,16 @@ Allow the creation of a new Virtual Network (Vnet).
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
+
+
+
+![image](https://github.com/Chas101/osticket-ex-prereqs/assets/153942150/493fa1c6-9aeb-4b56-bab1-5af2b1085913)
+
+![image](https://github.com/Chas101/osticket-ex-prereqs/assets/153942150/9633a6be-234f-47e2-a522-a50cce7b6f3a)
+
 Step 2:
   Enable CGI and Common HTTP Features in IIS on the Windows VM.
 Install IIS Management Console.
@@ -49,7 +63,8 @@ Install MySQL 5.5.62 with a typical setup, choosing "Password1" as the password.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 <p>
 Step 3:
@@ -59,7 +74,17 @@ Reload IIS (Stop and Start the server to check).
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Chas101/osticket-ex-prereqs/assets/153942150/fff90571-7ec8-4764-80e9-c6c1f47cfb20)
+
+
+![image](https://github.com/Chas101/osticket-ex-prereqs/assets/153942150/7a449f5f-987b-4285-a815-839365628f81)
+
+  
+![image](https://github.com/Chas101/osticket-ex-prereqs/assets/153942150/a6929403-3d4b-4567-9fdc-afcd88494ee1)
+
+
+
 </p>
 <p>
 Step 4:
